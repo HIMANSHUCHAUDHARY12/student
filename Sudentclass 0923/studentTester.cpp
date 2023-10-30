@@ -4,5 +4,5 @@
 using namespace std
 void main(){
 	calaverage();
-	cout<<"tester class invoked"<<endl;
+	
 }
